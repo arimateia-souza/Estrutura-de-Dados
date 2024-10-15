@@ -17,5 +17,3 @@ let resultado = mediaNotas(notas);
 let palavra;
 palavra = resultado.alunosMedia >1 ? 'alunos' : 'aluno'
 console.log(`a media das ${resultado.qtdNotas} notas é: ${(resultado.media).toFixed(1)} e ${(resultado.alunosMedia)} ${palavra} estão na media`);
-
-//console.log(`a media das ${qtdNotas} notas é:${(media/qtdNotas).toFixed(2)} `)
