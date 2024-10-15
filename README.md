@@ -1,4 +1,4 @@
-# Sistema de Seleção de curriculo 📃
+# Estrutura de Dados 🎲
 
 [Link do Projeto](https://github.com/arimateia-souza/Estrutura-de-Dados)
 
