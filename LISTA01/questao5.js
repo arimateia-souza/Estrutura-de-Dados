@@ -7,11 +7,10 @@ function transporMatriz(matriz) {
         }
         matrizTransposta.push(novaLinha);  
     }
-    return matrizTransposta
+    return ma
 }
 let matriz = [
     [1, 2, 3],
     [4, 5, 6]
-    ];
-    
+    ];   
 console.log(transporMatriz(matriz));
