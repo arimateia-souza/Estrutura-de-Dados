@@ -1,0 +1,1 @@
+/*Questão 02: Implemente uma pilha em JavaScript que simule a funcionalidade de "desfazer" (undo) em um editor de texto. A cada nova ação (como escrever uma palavra), ela deve ser armazenada na pilha. Quando o usuário clicar no botão "desfazer", a última ação realizada deve ser removida da pilha e o estado anterior do texto deve ser restaurado.*/
